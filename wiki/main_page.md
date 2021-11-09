@@ -10,11 +10,15 @@ Welcome to you, the cruiser of the endless abyss of Internet! If perchance you s
 
 ## What is Politwiki/Polyblog?
 
-This site, as I envision it as at the moment, will be an amalgamation of several things:
+This site, as I envision it at the moment, will be an amalgamation of several things:
 
 1. A Wiki, with the collaboration option conditioned [Github](https://github.io) registration (to add files and use Prose.io). In the foreseeable future, though, it will be just the remote clone of my personal Wiki notes (synced with `Git`).
 
-2. A blog where I will try to document the Wiki management or post about a variety of topics I am personally interested: `Unix/Linux`, `Academia`, `Languages`, `Scripting for social-scientits (non IT specialists)`. 
+2. A blog where I will try to document the Wiki management or post about a variety of topics I am personally interested in:
+
+`Unix/Linux`, `Academia`, `Languages`, `Scripting for social-scientists (non IT specialists)`. 
+
+I also have a [repository](https://github.com/gizehgrun/TIL) on Github with my TIL snippets - short notes on technical topics in **"Today I learned"** style (post on TIL and scripts I use upcoming). 
 
 ## Credits
 
