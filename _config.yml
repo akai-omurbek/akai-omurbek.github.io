@@ -1,7 +1,7 @@
 # (string) Title of your wiki
-title: 
+title: "PolitWiki"
 # (string) Description of your wiki
-description: 
+description: "A little side project to nurture my curiosity"
 # (boolean) Enable/disable wiki page list in sidebar
 show_wiki_pages: true
 # (integer) Maximum number of wiki page to shown in sidebar
@@ -73,13 +73,13 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      layout: "git-wiki-default"
+      layout: "git-wiki-bs-united"
  -
     scope:
       path: ""
       type: "pages"
     values:
-      layout: "git-wiki-default"
+      layout: "git-wiki-bs-united"
  -
     scope:
       path: ""
@@ -110,6 +110,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-titles-from-headings
   - jemoji
+    #- jekyll-commonmark-ghpages
+    #- jekyll-commonmark
 
 
 #
