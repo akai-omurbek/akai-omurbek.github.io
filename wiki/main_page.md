@@ -28,4 +28,4 @@ This wiki was made possible with [Github Pages](https://pages.github.com/) and t
 - [ ] Learn tagging with Liquid
 - [ ] Justifying text (tinker with templates?)
 - [ ] Git pulling/pushing automatize (scripts?)
-
+- [ ] Change the repository name shown at top to something else
