@@ -12,11 +12,10 @@ Welcome to you, the cruiser of the endless abyss of Internet! If perchance you s
 
 This site, as I envision it at the moment, will be an amalgamation of several things:
 
-1. A Wiki, with the collaboration option conditioned [Github](https://github.io) registration (to add files and use Prose.io). In the foreseeable future, though, it will be just the remote clone of my personal Wiki notes (synced with `Git`).
+1. A Wiki, with the collaboration option conditioned upon [Github](https://github.io) registration (to add files and use Prose.io). In the foreseeable future, though, it will be just the remote clone of my personal Wiki notes (synced with `Git`).
 
-2. A blog where I will try to document the Wiki management or post about a variety of topics I am personally interested in:
-
-`Unix/Linux`, `Academia`, `Languages`, `Scripting for social-scientists (non IT specialists)`. 
+2. A blog where I will try to document the Wiki management or post about a variety of topics I am personally interested in: 
+  `Unix/Linux`, `Academia`, `Languages`, `Scripting for social-scientists (non IT specialists)`. 
 
 I also have a [repository](https://github.com/gizehgrun/TIL) on Github with my TIL snippets - short notes on technical topics in **"Today I learned"** style (post on TIL and scripts I use upcoming). 
 
@@ -28,5 +27,5 @@ This wiki was made possible with [Github Pages](https://pages.github.com/) and t
 
 - [ ] Learn tagging with Liquid
 - [ ] Justifying text (tinker with templates?)
-- [ ] 
+- [ ] Git pulling/pushing automatize (scripts?)
 
