@@ -1,0 +1,32 @@
+- [x] https://www.theguardian.com/world/2021/nov/05/speculation-nation-can-xi-jinpings-property-tax-deflate-chinas-housing-bubble ✅ 2021-11-10
+- [x] https://www.theguardian.com/world/2021/nov/03/china-increasing-nuclear-arsenal-much-faster-than-was-thought-pentagon-says ✅ 2021-11-10
+- [x] https://www.theguardian.com/commentisfree/2021/nov/02/the-guardian-view-on-china-and-cop26-do-not-despair ✅ 2021-11-10
+- [x] https://www.youtube.com/watch?v=wq8RPyqPnc4 ✅ 2021-11-10
+- [x] https://www.youtube.com/watch?v=PVPmlL8IkHE ✅ 2021-11-10
+- [x] https://www.youtube.com/watch?v=8kESpELLv_U ✅ 2021-11-10
+- [ ] https://itsfoss.com/exa/
+- [ ] https://www.tecmint.com/create-html5-project-ubuntu-netbeans/
+- [ ] https://ostechnix.com/zenity-create-gui-dialog-boxes-in-bash-scripts/
+- [ ] https://spectrejournal.com/what-was-chinese-trotskyism/
+- [ ] https://spectrejournal.com/caught-between-the-two-superpowers/
+- [ ] https://spectrejournal.com/counterrevolution-in-sudan/
+- [ ] https://journals.sagepub.com/doi/full/10.1177/03098168211054803
+- [ ] https://journals.sagepub.com/doi/abs/10.1177/03098168211054798?ai=2b4&mi=ehikzz&af=R
+- [ ] https://journals.sagepub.com/doi/abs/10.1177/03098168211054799?ai=2b4&mi=ehikzz&af=R
+- [ ] https://t.me/cabarasia/878
+- [ ] https://t.me/cabarasia/879
+- [ ] https://t.me/cabarasia/880
+- [ ] https://www.caa-network.org/archives/22316/znanie-o-stepi-i-oshibki-rossijskogo-imperializma-intervyu-s-yanom-kempbellom (link)
+- [ ] https://www.caa-network.org/archives/18487
+- [ ] https://www.caa-network.org/archives/14622
+- [ ]  [heute-show vom 5. November 2021 - ZDFmediathek](https://www.zdf.de/comedy/heute-show/heute-show-vom-5-november-2021-100.html)
+
+- [ ] vim for writers talk https://www.youtube.com/watch?v=2ORWaIqyj7k
+- [ ]  [  GitHub - OWASP/wstg: The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.](https://github.com/OWASP/wstg)
+- [ ]  [  GitHub - rauchg/wifi-password: Get the password of the wifi you're on (bash)](https://github.com/rauchg/wifi-password)
+- [ ]  [  GitHub - noob-hackers/ighack: Hack Instagram From Termux With Help of Tor](https://github.com/noob-hackers/ighack)
+- [ ]  [  GitHub - noob-hackers/ighack: Hack Instagram From Termux With Help of Tor](https://github.com/noob-hackers/ighack)
+- [ ]  [  GitHub - lewis6991/impatient.nvim: Improve startup time for Neovim](https://github.com/lewis6991/impatient.nvim)
+- [ ]  [    Telegram: Contact @cabarasia](https://t.me/cabarasia/881)
+- [ ]  [](https://www.dw.com/de/das-abc-der-ddr-ein-glossar/a-59731245?maca=de-rss-de-all-1119-xml-mrss)
+- [ ]  [Lars Klingbeil: Mit Softpower an die SPD-Spitze | Deutschland | DW | 08.11.2021](https://www.dw.com/de/lars-klingbeil-mit-softpower-an-die-spd-spitze/a-59757332?maca=de-rss-de-all-1119-xml-mrss)

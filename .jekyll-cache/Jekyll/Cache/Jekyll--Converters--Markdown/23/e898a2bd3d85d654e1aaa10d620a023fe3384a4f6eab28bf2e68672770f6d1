@@ -1,0 +1,37 @@
+I"�<h2 id="politwiki-polyblog">PolitWiki? Polyblog?</h2>
+
+<p>Welcome to you, the cruiser of the endless abyss of Internet! If perchance you stumbled upon this little inchoate site, consider yourself … Who cares? Seriously, though, this site was born as a result of my several months-long journey of finding a perfect set up (for me) to have notes in the Wiki format AND still have an access to them online. I will be working on moving my Wiki notes here.</p>
+
+<h2 id="what-is-politwikipolyblog">What is Politwiki/Polyblog?</h2>
+
+<p>This site, as I envision it at the moment, will be an amalgamation of several things:</p>
+
+<ol>
+  <li>
+    <p>A Wiki, with the collaboration option conditioned upon <a href="https://github.io">Github</a> registration (to add files and use Prose.io). In the foreseeable future, though, it will be just the remote clone of my personal Wiki notes (synced with <code class="language-plaintext highlighter-rouge">Git</code>).</p>
+  </li>
+  <li>
+    <p>A blog where I will try to document the Wiki management or post about a variety of topics I am personally interested in: 
+  <code class="language-plaintext highlighter-rouge">Unix/Linux</code>, <code class="language-plaintext highlighter-rouge">Academia</code>, <code class="language-plaintext highlighter-rouge">Languages</code>, <code class="language-plaintext highlighter-rouge">Scripting for social-scientists (non IT specialists)</code>.</p>
+  </li>
+</ol>
+
+<p>I also have a <a href="https://github.com/gizehgrun/TIL">repository</a> on Github with my TIL snippets - short notes on technical topics in <strong>“Today I learned”</strong> style (post on TIL and scripts I use upcoming).</p>
+
+<h2 id="credits">Credits</h2>
+
+<p>This wiki was made possible with <a href="https://pages.github.com/">Github Pages</a> and their wonderful static site assistant - <a href="https://jekyllrb.com/">Jekyll</a>. Thanks to the <a href="https://git-scm.com/">Git</a> version-control system, I can control the website from the comfort of my <code class="language-plaintext highlighter-rouge">Linux</code> OS. Additionally, the guys from <a href="http://drassil.github.io/git-wiki/">git-wiki-theme</a> saved me, probably, a year of learning about Jekyll and provided this template.</p>
+
+<h2 id="to-dos">To-dos</h2>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Learn tagging with Liquid</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Justifying text (tinker with templates?)</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Git pulling/pushing automatize (scripts?)</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Change the repository name shown at top to something else</li>
+</ul>
+
+<h2 id="test-links">Test links</h2>
+
+<p><a href="/matraimov_raim">Matraimov</a></p>
+:ET

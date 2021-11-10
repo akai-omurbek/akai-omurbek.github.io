@@ -18,5 +18,5 @@ _ _ _
 _ _ _
 ## References
 
-[^1]: https://factcheck.kg/kak-chinovniki-kyrgyzstana-izbegayut-ugolovnoj-otvetstvennosti-rassledovanie-kloop-kg/?utm_source=rss&utm_medium=rss&utm_campaign=kak-chinovniki-kyrgyzstana-izbegayut-ugolovnoj-otvetstvennosti-rassledovanie-kloop-kg
+[^1]:  https://factcheck.kg/kak-chinovniki-kyrgyzstana-izbegayut-ugolovnoj-otvetstvennosti-rassledovanie-kloop-kg/?utm_source=rss&utm_medium=rss&utm_campaign=kak-chinovniki-kyrgyzstana-izbegayut-ugolovnoj-otvetstvennosti-rassledovanie-kloop-kg  
 
