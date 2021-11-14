@@ -17,4 +17,3 @@ _ _ _
 ## References
 
 [^1]: https://www.theguardian.com/world/2021/nov/03/china-increasing-nuclear-arsenal-much-faster-than-was-thought-pentagon-says
-
