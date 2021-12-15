@@ -30,3 +30,11 @@ This wiki was made possible with [Github Pages](https://pages.github.com/) and t
 - [ ] Git pulling/pushing automatize (scripts?)
 - [ ] Change the repository name shown at top to something else
 
+{% for tag in site.tags %}
+  <h3>{{ tag[0] }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
