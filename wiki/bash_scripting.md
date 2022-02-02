@@ -36,5 +36,6 @@ All the sets can be unset and set (e.g. with `set +u` and `set -u`) on-demand wi
 
 Oftentimes we have to use a wonderful utility called `xargs` in our pipes. The problem is that is can keep spawning commands, even if the previous command in the pipe exited with errors. To escape such behaviour, use `xargs -r` which stands for `--no-run-if-empty`. 
 _ _ _
+
 ## References
 

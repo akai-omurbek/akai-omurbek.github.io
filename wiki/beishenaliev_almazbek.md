@@ -18,6 +18,7 @@ As became known later, Beishenaliev applied for the position of UNESCO's directo
 
 Almazbek left his position at the Ministry in May 2021.
 
+
 _ _ _
 
 ## Political Views
