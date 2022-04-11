@@ -33,7 +33,5 @@ _ _ _
 
 [^1]: https://tengrinews.kz/kazakhstan_news/dosrochno-prekraschenyi-polnomochiya-glavyi-kaztransoyl-459279/
 [^2]: https://kloop.kg/blog/2022/01/15/zyatya-nazarbaeva-pokinuli-posty-v-kazahgaz-i-kaztransojl/
-[^3]: 
-[^4]: 
 
 
