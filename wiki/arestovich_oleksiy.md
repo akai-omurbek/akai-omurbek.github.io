@@ -4,7 +4,7 @@ title: "Arestovich Oleksiy"
 
 # Arestovich Oleksiy (1975 - )
 
-![img](../assets/images/.png)
+![img](../assets/images/arestovich.png)
 
 _ _ _
 
